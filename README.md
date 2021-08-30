@@ -1,0 +1,3 @@
+# projectTrainingGit
+
+test note
